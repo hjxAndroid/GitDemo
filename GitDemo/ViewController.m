@@ -20,6 +20,8 @@
     int b = 10;
     
     int sum = a + b;
+    
+    int  c = 0;
 }
 
 - (void)didReceiveMemoryWarning {
